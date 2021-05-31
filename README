@@ -3,6 +3,7 @@ IZP 2020/2021 FIT VUT - Projekt č. 1
 Hodnocení: 10/10
 
 Projekt 1 - Práce s textem
+
 Motivace projektu
 Představme si, že máme jednoduchý textový soubor obsahující tabulkové informace (například řádky s jednotlivými buňkami oddělené mezerou). Představme si, že chceme spočítat součet všech hodnot ve třetím sloupci, nebo zjistit jejich aritmetický průměr, odebrat nějaký sloupec nebo přidat nový, který bude představovat součet dvou předchozích buněk? Musíme si spustit těžkopádný tabulkový procesor (Excel, Libreoffice Calc, Google Sheets apod.), data do něj importovat, klikat, co chceme provést, a následně uložit. A co když takových souborů stejného typu, ale s různými daty máme hodně? Hodil by se jednoduchý nástroj pro příkazovou řádku, kterému bychom řekli, co s textovým souborem má dělat, a nástroj automaticky spustili opakovaně nad každým souborem. Nebude to sice hezky "klikatelné", ale ušetří nám to spoustu práce.
 
