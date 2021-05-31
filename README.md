@@ -4,6 +4,7 @@ IZP 2020/2021 FIT VUT - Projekt č. 1
 Hodnocení: 10/10
 
 **Projekt 1 - Práce s textem**
+------------------------------
 
 Motivace projektu
 -----------------
